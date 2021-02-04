@@ -1,0 +1,7 @@
+C:\Users\EnesÖzbek\source\repos\AmadeusImplementation\AmadeusImplementation\bin\Debug\AmadeusImplementation.exe.config
+C:\Users\EnesÖzbek\source\repos\AmadeusImplementation\AmadeusImplementation\bin\Debug\AmadeusImplementation.exe
+C:\Users\EnesÖzbek\source\repos\AmadeusImplementation\AmadeusImplementation\bin\Debug\AmadeusImplementation.pdb
+C:\Users\EnesÖzbek\source\repos\AmadeusImplementation\AmadeusImplementation\obj\Debug\AmadeusImplementation.csprojAssemblyReference.cache
+C:\Users\EnesÖzbek\source\repos\AmadeusImplementation\AmadeusImplementation\obj\Debug\AmadeusImplementation.csproj.CoreCompileInputs.cache
+C:\Users\EnesÖzbek\source\repos\AmadeusImplementation\AmadeusImplementation\obj\Debug\AmadeusImplementation.exe
+C:\Users\EnesÖzbek\source\repos\AmadeusImplementation\AmadeusImplementation\obj\Debug\AmadeusImplementation.pdb
